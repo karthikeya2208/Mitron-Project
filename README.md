@@ -1,6 +1,6 @@
 # 🏦 Banking Domain Data Analysis Using Tableau  
 
-### 🖥️ [View the Tableau Dashboards Here](https://public.tableau.com/app/profile/karthikeya.kanumuri/viz/MitronProject/ExpenditureTrendsandPatterns)
+### 🖥️ [View the Tableau Dashboards Here](https://public.tableau.com/app/profile/karthikeya.kanumuri/viz/MitronProject/CustomerDemographic)
 
 As part of a data challenge, I was provided with a dataset related to the banking domain. I utilized Tableau to clean, analyze, and visualize this data, eventually building and publishing three dashboards:  
 
